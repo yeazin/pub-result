@@ -1,2 +1,2 @@
-# publish your result
+# Publish your result
 This software will let you publish you academic result 
